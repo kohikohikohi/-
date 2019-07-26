@@ -4,4 +4,5 @@ def has99(nums):
             return True
         else:
             continue
-    return Falseあ
+    return False
+    
